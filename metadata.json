@@ -1,0 +1,8 @@
+{
+  "name": "Jewellery Shop Showcase",
+  "description": "Professional informational showcase and gallery website for a physical jewellery shop with direct call, WhatsApp, and Google Maps directions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
